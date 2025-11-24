@@ -1,0 +1,2 @@
+# DAA_Assignment-2
+This repository contains the algorithmic implementations and comprehensive analysis for the Graph Theory assignment problems involving the Mongolian Tent Graph ($MT_{n}$ or $MT_{3,n}$) and Circulant Graphs ($C_{n,r}$).The assignment tasks are addressed through specific algorithms designed to analyze graph properties, determine optimal data structures, and perform vertex labeling.
